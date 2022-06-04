@@ -1,0 +1,11 @@
+body {
+  margin: 10px 40px;
+  text-align: center;
+  background: rgb(240, 228, 213);
+}
+h2 {
+  color: blue;
+}
+img {
+  max-width: 300px;
+}
