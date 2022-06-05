@@ -3,6 +3,13 @@ body {
   text-align: center;
   background: rgb(240, 228, 213);
 }
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+}
 h2 {
   color: blue;
 }
